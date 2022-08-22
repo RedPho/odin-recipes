@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #cccccc;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+p {
+    background-color: rgb(144, 109, 241);
+    color: white;
+}
+
+ul {
+    background-color: rgb(127, 255, 212);
+}
+
+ol {
+    background-color: blanchedalmond;
+}
